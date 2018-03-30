@@ -1,0 +1,14 @@
+﻿  main.c
+c:\users\dima\documents\visual studio 2017\projects\cryptographicmethods_lab_2_гост28147-89\cryptographicmethods_lab_2_гост28147-89\main.c(35): warning C4013: system: нет определения; предполагается "extern" с возвратом типа "int"
+c:\users\dima\documents\visual studio 2017\projects\cryptographicmethods_lab_2_гост28147-89\cryptographicmethods_lab_2_гост28147-89\main.c(42): warning C4087: Gumming: объявление с "void"-списком параметров
+c:\users\dima\documents\visual studio 2017\projects\cryptographicmethods_lab_2_гост28147-89\cryptographicmethods_lab_2_гост28147-89\main.c(52): warning C4013: getch: нет определения; предполагается "extern" с возвратом типа "int"
+c:\users\dima\documents\visual studio 2017\projects\cryptographicmethods_lab_2_гост28147-89\cryptographicmethods_lab_2_гост28147-89\main.c(64): warning C4013: f: нет определения; предполагается "extern" с возвратом типа "int"
+c:\users\dima\documents\visual studio 2017\projects\cryptographicmethods_lab_2_гост28147-89\cryptographicmethods_lab_2_гост28147-89\main.c(217): warning C4142: "f": неопасное переопределение типа
+c:\users\dima\documents\visual studio 2017\projects\cryptographicmethods_lab_2_гост28147-89\cryptographicmethods_lab_2_гост28147-89\main.c(272): warning C4133: функция: несовместимые типы - из "u4 [2]" в "char *"
+c:\users\dima\documents\visual studio 2017\projects\cryptographicmethods_lab_2_гост28147-89\cryptographicmethods_lab_2_гост28147-89\main.c(244): warning C4101: sync: неиспользованная локальная переменная
+c:\users\dima\documents\visual studio 2017\projects\cryptographicmethods_lab_2_гост28147-89\cryptographicmethods_lab_2_гост28147-89\main.c(340): warning C4133: функция: несовместимые типы - из "u4 [2]" в "char *"
+c:\users\dima\documents\visual studio 2017\projects\cryptographicmethods_lab_2_гост28147-89\cryptographicmethods_lab_2_гост28147-89\main.c(365): warning C4027: функция объявлена без списка формальных параметров
+c:\users\dima\documents\visual studio 2017\projects\cryptographicmethods_lab_2_гост28147-89\cryptographicmethods_lab_2_гост28147-89\main.c(389): warning C4133: функция: несовместимые типы - из "u4 [2]" в "char *"
+c:\users\dima\documents\visual studio 2017\projects\cryptographicmethods_lab_2_гост28147-89\cryptographicmethods_lab_2_гост28147-89\main.c(369): warning C4101: j: неиспользованная локальная переменная
+  CryptographicMethods_Lab_2_ГОСТ28147-89.vcxproj -> C:\Users\Dima\Documents\Visual Studio 2017\Projects\CryptographicMethods_Lab_2_ГОСТ28147-89\Debug\CryptographicMethods_Lab_2_ГОСТ28147-89.exe
+  CryptographicMethods_Lab_2_ГОСТ28147-89.vcxproj -> C:\Users\Dima\Documents\Visual Studio 2017\Projects\CryptographicMethods_Lab_2_ГОСТ28147-89\Debug\CryptographicMethods_Lab_2_ГОСТ28147-89.pdb (Partial PDB)
